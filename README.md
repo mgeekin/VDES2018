@@ -2,9 +2,11 @@
 
 ## Please check your name & college name to be printed on certificate
 
-in case there is any correction please fill this for [click here](https://goo.gl/forms/cNmIkU85WxT9j3Af1)
+in case there is any correction please fill this for [click here](https://goo.gl/forms/cNmIkU85WxT9j3Af1){: .btn}
 or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with your Sl. Name and College
 
+
+# [correction form if required](https://goo.gl/forms/cNmIkU85WxT9j3Af1)
 
 
 | Sl. | Name                     | College                      |
