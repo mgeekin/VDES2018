@@ -134,6 +134,7 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 | 120 | Saumya Tripathi          | UCER Allahabad               |
 | 121 | Raj Nandani              | KNIT Sultanpur               |
 
-
+<script src="http://counter.heroku.com/javascripts/count.js" type="text/javascript"></script>	
+<div>Hit Count: <span id = "count"></span><div>
 
 [&copy; 2018  mGeek.in](http://mgeek.in)
