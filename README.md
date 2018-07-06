@@ -2,11 +2,12 @@
 
 ## Please check your name & college name to be printed on certificate
 
-in case there is any correction please fill this for [click here](https://goo.gl/forms/cNmIkU85WxT9j3Af1){: .btn}
-or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with your Sl. Name and College
+<p>in case any correction is required, <br> please fill this for [click here](https://goo.gl/forms/cNmIkU85WxT9j3Af1){: .btn}
+<br></p>
+<p>or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with your Sl. Name and College</p>
 
 
-# [correction form if required](https://goo.gl/forms/cNmIkU85WxT9j3Af1)
+# [correction from](https://goo.gl/forms/cNmIkU85WxT9j3Af1)
 
 
 | Sl. | Name                     | College                      |
@@ -132,3 +133,7 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 | 119 | Abhay Maurya             | KNIT Sultanpur               |
 | 120 | Saumya Tripathi          | UCER Allahabad               |
 | 121 | Raj Nandani              | KNIT Sultanpur               |
+
+
+
+[(c)2018  mGeek.in](http://mgeek.in)
