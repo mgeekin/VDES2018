@@ -136,4 +136,4 @@
 
 
 
-[(c)2018  mGeek.in](http://mgeek.in)
+[&copy; 2018  mGeek.in](http://mgeek.in)
