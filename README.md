@@ -18,11 +18,11 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 | 4   | Saurabh Kumar Mitra      | UCEM Allahabad               |
 | 5   | Anukriti Dixit           | BBDNITM Lucknow              |
 | 6   | Shreya Tripathi          | BBDNITM Lucknow              |
-| 7   | Sobhik Saha              | MU Jaipur                    |
+| 7   | Sobhik Saha              | Manipal University Jaipur    |
 | 8   | Nayanika Chaurasia       | UIET CSJMU Kanpur            |
 | 9   | Abhishek Kumar Singh     | BBDNIIT Lucknow              |
 | 10  | Akanksha Singh           | UIET CSJMU Kanpur            |
-| 11  | Tanisha Jain             | MU Jaipur                    |
+| 11  | Tanisha Jain             | Manipal University Jaipur    |
 | 12  | Divya Singh              | NIT Uttarakhand              |
 | 13  | Nikita                   | NIT Uttarakhand              |
 | 14  | Nayanika Sinha           | Jabalpur Engineering College |
@@ -86,7 +86,7 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 | 72  | Akhilendra K. Chaurasiya | JKIAPT Allahabad             |
 | 73  | Ritika                   | BRACAET Etawah               |
 | 74  | Anita                    | BRACAET Etawah               |
-| 75  | Akanksha Singh           | BRACAET Etawah               |
+| 75  | Akanksha                 | BRACAET Etawah               |
 | 76  | Adarsh Maurya            | SRMSCET Bareilly             |
 | 77  | Himadri Sharma           | SRMSCET Bareilly             |
 | 78  | Anuj Kumar Chaubey       | SRMSCET Bareilly             |
@@ -116,7 +116,7 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 | 102 | Sooraj Gupta             | REC Sonbhadra                |
 | 103 | Rahul Rajpurohit         | NIT Sikkim                   |
 | 104 | Aman Kumar               | ABESEC Ghaziabad             |
-| 105 | Shivani Yadav            | RU Bareilly                  |
+| 105 | Shivani                  | MJPRU Bareilly               |
 | 106 | Mohd. Shahrukh Khan      | SHUATS Allahabad             |
 | 107 | Anurag Srivastava        | JSSATE Noida                 |
 | 108 | Ashwini Kumar            | UIT Burdwan                  |
@@ -133,6 +133,19 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 | 119 | Abhay Maurya             | KNIT Sultanpur               |
 | 120 | Saumya Tripathi          | UCER Allahabad               |
 | 121 | Raj Nandani              | KNIT Sultanpur               |
+
+
+# Corrections implemented 
+| 105 | Shivani       | MJPRU Bareilly                            |
+| 75  | Akanksha      | BRACAET etawah                            |
+| 11  | Tanisha Jain  | Manipal University Jaipur                 |
+| 7   | Sobhik Saha   | Manipal University Jaipur                 |
+
+# Not implemented
+
+| 16  | AJIT KUSHWAHA | RAJKIYA ENGINEERING COLLEGE,SONBHADRA(UP) |
+## its kept 
+| 16  | Ajit Kushwaha            | REC Sonbhadra                |
 
 
 [&copy; 2018  mGeek.in](http://mgeek.in)
