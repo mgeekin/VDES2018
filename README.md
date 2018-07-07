@@ -136,6 +136,8 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 
 
 # Corrections implemented 
+| Sl. | Name                     | College                      |
+|-----|--------------------------|------------------------------|
 | 105 | Shivani       | MJPRU Bareilly                            |
 | 75  | Akanksha      | BRACAET etawah                            |
 | 11  | Tanisha Jain  | Manipal University Jaipur                 |
@@ -143,8 +145,12 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 
 # Not implemented
 
+| Sl. | Name                     | College                      |
+|-----|--------------------------|------------------------------|
 | 16  | AJIT KUSHWAHA | RAJKIYA ENGINEERING COLLEGE,SONBHADRA(UP) |
 ## its kept 
+| Sl. | Name                     | College                      |
+|-----|--------------------------|------------------------------|
 | 16  | Ajit Kushwaha            | REC Sonbhadra                |
 
 
