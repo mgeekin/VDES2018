@@ -134,7 +134,7 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 | 120 | Saumya Tripathi          | UCER Allahabad               |
 | 121 | Raj Nandani              | KNIT Sultanpur               |
 
-###[Corrections suggested by students can be veiwed from here](https://docs.google.com/spreadsheets/d/1Ou5a5lS6VYf_zE1zhfR67T18OX0J3x7Tu7OeHYRjXeM/edit?usp=sharing)
+### [Corrections suggested by students can be veiwed from here](https://docs.google.com/spreadsheets/d/1Ou5a5lS6VYf_zE1zhfR67T18OX0J3x7Tu7OeHYRjXeM/edit?usp=sharing)
 
 
 # Corrections implemented 
