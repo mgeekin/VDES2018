@@ -109,7 +109,7 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 | 95  | Lavina Srivastava        | IET BU Jhansi                |
 | 96  | Vivek Jaiswal            | IERT Allahabad               |
 | 97  | Santosh Chauhan          | IET Jhashi                   |
-| 98  | Parna Mishra             | AVV                          |
+| 98  | Parna Mishra             | AVV, Amritapuri Campus       |
 | 99  | Azharuddeen              | JKIAPT Allahabad             |
 | 100 | Shruti Bora              | AKGEC Ghaziabad              |
 | 101 | Krittika Tewari          | JUIT Solan                   |
@@ -144,6 +144,7 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 | 75  | Akanksha      | BRACAET Etawah                            |
 | 11  | Tanisha Jain  | Manipal University Jaipur                 |
 | 7   | Sobhik Saha   | Manipal University Jaipur                 |
+| 98  | Parna Mishra             | AVV, Amritapuri Campus       |
 
 # Not implemented
 
