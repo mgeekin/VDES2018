@@ -139,7 +139,7 @@ or mail to [prateekrajgautam@gmail.com](mailto:prateekrajgautam@gmail.com) with 
 | Sl. | Name                     | College                      |
 |-----|--------------------------|------------------------------|
 | 105 | Shivani       | MJPRU Bareilly                            |
-| 75  | Akanksha      | BRACAET etawah                            |
+| 75  | Akanksha      | BRACAET Etawah                            |
 | 11  | Tanisha Jain  | Manipal University Jaipur                 |
 | 7   | Sobhik Saha   | Manipal University Jaipur                 |
 
