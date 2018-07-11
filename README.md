@@ -1,5 +1,52 @@
 # VDES2018
 
+## Instructor list
+
+| Sl. | name                    | college         |
+|-----|-------------------------|-----------------|
+| 1   | Abhimanyu Yadav         | MNNIT Allahabad |
+| 2   | Akash Gupta             | MNNIT Allahabad |
+| 3   | Amit Pandey             | MNNIT Allahabad |
+| 4   | Aniket Gupta            | MNNIT Allahabad |
+| 5   | Anju Ashra              | MNNIT Allahabad |
+| 6   | Ankit Dimri             | MNNIT Allahabad |
+| 7   | Anurag Tiwari           | MNNIT Allahabad |
+| 8   | Ashish Patil            | MNNIT Allahabad |
+| 9   | Ashok Kumar             | MNNIT Allahabad |
+| 10  | Avanish Kumar Arun      | MNNIT Allahabad |
+| 11  | Dharmendra Kumar        | MNNIT Allahabad |
+| 12  | Dheeraj Kumar Kannaujia | MNNIT Allahabad |
+| 13  | Divyadeep Singh         | MNNIT Allahabad |
+| 14  | Dushyant Kumar          | MNNIT Allahabad |
+| 15  | Gundam Anudeep Reddy    | MNNIT Allahabad |
+| 16  | Himani Saini            | MNNIT Allahabad |
+| 17  | Iqra Masroor            | MNNIT Allahabad |
+| 18  | Jadav Gopinath          | MNNIT Allahabad |
+| 19  | Kamini Singh            | MNNIT Allahabad |
+| 20  | Neha Kumari             | MNNIT Allahabad |
+| 21  | Nimisha                 | MNNIT Allahabad |
+| 22  | Nitesh Kumar Chaurasiya | MNNIT Allahabad |
+| 23  | Omkar Ravi              | MNNIT Allahabad |
+| 24  | Pratiksha Gupta         | MNNIT Allahabad |
+| 25  | Praveen Kumar           | MNNIT Allahabad |
+| 26  | Salman Latif            | MNNIT Allahabad |
+| 27  | Sanjay Kumar Prajapati  | MNNIT Allahabad |
+| 28  | Sonu Kumar Singh        | MNNIT Allahabad |
+| 29  | Sumit Kumar Vishwakarma | MNNIT Allahabad |
+| 30  | Swati Verma             | MNNIT Allahabad |
+| 31  | Talla Gnanraj           | MNNIT Allahabad |
+| 32  | Vidushi Kumar           | MNNIT Allahabad |
+| 33  | Yashpal Yadav           | MNNIT Allahabad |
+| 34  | Arpit Gupta             | MNNIT Allahabad |
+| 35  | Jadav Gopinath          | MNNIT Allahabad |
+| 36  | Shashank Kumar          | MNNIT Allahabad |
+| 37  | Mamidi Nagaraju         | MNNIT Allahabad |
+| 38  | Devarshi Shukla         | MNNIT Allahabad |
+| 39  | Abhishek Kumar          | MNNIT Allahabad |
+| 40  | Prateek Raj Gautam      | MNNIT Allahabad |
+| 41  | Sunil Kumar             | MNNIT Allahabad |
+
+
 ## Please check your name & college name to be printed on certificate
 
 in case any correction is required, <br> please fill this form [click here](https://goo.gl/forms/cNmIkU85WxT9j3Af1){: .btn}
